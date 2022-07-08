@@ -1,0 +1,13 @@
+﻿{
+    "name": "bana",
+    "description": "bana",
+    "keywords": ["VLESS"],
+    "env": {
+        "ID": {
+            "description": "VLESS ID, use uuid generator",
+            "value": "4b1e6395-9351-49e2-afde-cff7e4676cb5"
+        }
+    },
+    "repository": "",
+    "stack": "container"
+}
